@@ -1,2 +1,2 @@
 # kdrgbr.github.io
-demo page
+Ezt a linket kell megnyisd, akkor fog működni: https://kdrgbr.github.io/index.html
